@@ -1,0 +1,6 @@
+__pycache__
+.cache
+.pyc
+session-4/kurosawa
+session-5/trump*
+.DS_Store
