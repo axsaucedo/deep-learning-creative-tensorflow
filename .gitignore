@@ -6,6 +6,6 @@ session-5/trump*
 .DS_Store
 venv
 .ipynb_checkpoints
-session-0/img_align_celeba/
-session-1/img_align_celeba/
-session-1/imgs/
+img_align_celeba
+session-1/imgs
+MNIST_data
