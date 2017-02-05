@@ -9,3 +9,12 @@ venv
 img_align_celeba
 session-1/imgs
 MNIST_data
+session-3/mani*
+session-3/recon*
+session-3/vae.ckpt*
+session-4/*.gif
+session-4/*.zip
+session-4/*model
+session-4/*.txt
+session-4/*.png
+session-4/inception
