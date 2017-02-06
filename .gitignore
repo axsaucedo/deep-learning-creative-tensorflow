@@ -18,3 +18,11 @@ session-4/*model
 session-4/*.txt
 session-4/*.png
 session-4/inception
+session-3/*png
+session-4/inception-2015-12-05.tgz
+session-4/inception-2015-12-05/
+session-4/matt.jpg
+session-4/mesq.jpg
+session-4/tag_list.json
+session-4/tiger1.jpg
+session-4/vgg_face.json
