@@ -26,7 +26,11 @@ session-4/mesq.jpg
 session-4/tag_list.json
 session-4/tiger1.jpg
 session-4/vgg_face.json
-
+session-5/checkpoint
+session-5/gan.ckpt-0.data-00000-of-00001
+session-5/gan.ckpt-0.index
+session-5/imgs/
+session-5/session-5-part-1-other.ipynb
 session-4/session-4-other.ipynb
 session-4/tellie.jpg
 session-4/tellie2.jpg
